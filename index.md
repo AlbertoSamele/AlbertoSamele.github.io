@@ -1,37 +1,13 @@
-## Welcome to GitHub Pages
+## OctoDollop support
 
-You can use the [editor on GitHub](https://github.com/AlbertoSamele/AlbertoSamele.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+If you require any more information or have any questions about our app, please feel free to contact us by email at alberto.samele@gmail.com.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Disclaimers for OctoDollop
 
-### Markdown
+All the information on the OctoDollop app is published in good faith and for general information purpose only. OctoDollop does not make any warranties about the completeness, reliability and accuracy of this information. Any action you take upon the information you find on this website (OctoDollop), is strictly at your own risk. OctoDollop will not be liable for any losses and/or damages in connection with the use of our website.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+From our app, you can visit other websites through the use of an embedded browser to such external sites. We have no control over the content and nature of these sites. These links to other websites do not imply a recommendation for all the content found on these sites.
 
-```markdown
-Syntax highlighted code block
+Update
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/AlbertoSamele/AlbertoSamele.github.io/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Should we update, amend or make any changes to this document, those changes will be prominently posted here.
