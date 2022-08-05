@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Octodollop • support"
 permalink: /octodollop/support
+---
 
 ## OctoDollop support
 
