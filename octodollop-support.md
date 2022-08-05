@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Octodollop • support"
+theme: jekyll-theme-cayman
 permalink: /octodollop/support
 ---
 
